@@ -1,8 +1,8 @@
 //
 //  S3CloudFrontManager.m
-//  RCSMosaico
 //
-//  Created by Stefano on 18/10/12.
+//
+//  Created by Stefano Cocco on 18/10/12.
 //
 //
 
